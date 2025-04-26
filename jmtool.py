@@ -1,6 +1,6 @@
 import requests
 
-__ENDPOINT_URL__: str = "https://jmgarage.squareweb.app/api"
+__ENDPOINT_URL__: str = "https://jmgaragee.squareweb.app/api"
 
 class geraldsdf:
     def __init__(self, access_key) -> None:
